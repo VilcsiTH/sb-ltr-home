@@ -20,6 +20,6 @@ hungryhyena78 for feedback on usage (https://www.twitch.tv/hungryhyena78)
 # Todo
 Priority | Task | Done in Version
 ------------ | ------------- | -------------
-Low | <ul><li>- [ ] Add safe-randomization mode (Prevents certain items from being unobtainable)</li></ul> | 
+Low | <ul><li>- [x] Add safe-randomization mode (Prevents certain items from being unobtainable)</li></ul> | 1.1.3
 High | <ul><li>- [x] Randomization selection (Select which types of drops should be randomized)</li></ul> | 1.1
 High | <ul><li>- [ ] Resourcepack randomization (Pretty much what you think it is)</li></ul> | 
