@@ -20,6 +20,7 @@ ___Installation___
 ALTERNATIVELY you could edit the index.php already inside the htdocs folder. Simply swap the
 
 header('Location: '.$uri.'/dashboard/');
+
 line to
 
 header('Location: '.$uri.'/sb-ltr-home-master/');
