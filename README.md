@@ -1,4 +1,5 @@
 ___sb-ltr-home___
+
 A version of the PHP Loot Table Randomizer that can be run at home, in case the original site ( https://fasguy.ga/sb_ltr_external/ ) goes down.
 
 Noob-friendly tutorial included below.
@@ -17,6 +18,7 @@ ___Installation___
 6. Generate your Loot Table Randomizer and play!
 
 ___Credits___
+
 Original Code by Fasguy (https://github.com/Fasguy/sb-ltr)
 
 All the guys from the original credits:
