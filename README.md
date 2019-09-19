@@ -18,9 +18,12 @@ ___Installation___
 6. Generate your Loot Table Randomizer and play!
 
 ALTERNATIVELY you could edit the index.php already inside the htdocs folder. Simply swap the
+
 header('Location: '.$uri.'/dashboard/');
 line to
+
 header('Location: '.$uri.'/sb-ltr-home-master/');
+
 and afterwards, put the sb-ltr-home-master FOLDER inside htdocs.(NOT the files or the zip, but the folder itself.)
 
 ___Credits___
